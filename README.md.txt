@@ -14,3 +14,9 @@ Este proyecto contiene scripts en Python (`.py`) relacionados con la selección 
 Se ha completado la configuración de la conexión mediante SSH para este repositorio, lo que permite la sincronización segura sin necesidad de introducir credenciales.
 
 ## Conexión SSH realizada
+
+## Tareas completadas
+- Configuración del repositorio local
+- Primer push por HTTPS
+- Conexión mediante SSH
+- Clonación mediante SSH y sincronización
